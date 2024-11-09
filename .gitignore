@@ -1,0 +1,5 @@
+__pycache__/
+genai_project_env/
+*.pyc
+nltk_data/
+

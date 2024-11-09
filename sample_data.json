@@ -1,0 +1,5 @@
+[
+    {"id": "1", "content": "Generative AI helps automate complex tasks by generating human-like text."},
+    {"id": "2", "content": "Vector databases allow for efficient search and retrieval of embedded data."},
+    {"id": "3", "content": "Retrieval-Augmented Generation combines data retrieval with language generation."}
+]
